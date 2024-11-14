@@ -16,7 +16,7 @@ BOP = Business-Oriented Programming
 
 ## 展示列表
 
-* 2024-11 [BOP概述](./zh-CN/202411/BOP概述/BOP概述.md)
+* 2024-11 [BOP概述](../zh-CN/202411/BOP概述/BOP概述.md)
 
 ## 路线图
 
