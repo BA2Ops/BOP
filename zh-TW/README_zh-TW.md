@@ -2,7 +2,7 @@
 
 BOP = Business-Oriented Programming
 
-[简体中文](../zh-CN/README_zh-CN.md) | [繁體中文](../zh-TW/README_zh-TW.md) | [English](../en/README_en.md)
+[简体中文](../zh-CN/README.md) | [繁體中文](../zh-TW/README_zh-TW.md) | [English](../en/README_en.md)
 
 * 程式設計 != 程式碼撰寫
 * 先寫文件，不寫程式碼
