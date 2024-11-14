@@ -2,7 +2,7 @@
 
 BOP = Business-Oriented Programming
 
-[简体中文](../zh-CN/README.md) | [繁體中文](../zh-TW/README_zh-TW.md) | [English](../en/README_en.md)
+[简体中文](../zh-CN/README.md) | [繁體中文](../zh-TW/README.md) | [English](../en/README.md)
 
 * 编程 != 编码
 * 先写文档，不写代码
@@ -16,7 +16,7 @@ BOP = Business-Oriented Programming
 
 ## 展示列表
 
-* 2024-11 [BOP概述](../zh-CN/202411/BOP概述/BOP概述.md)
+* 2024-11 [BOP概述](../zh-CN/202411/BOP概述/README.md)
 
 ## 路线图
 

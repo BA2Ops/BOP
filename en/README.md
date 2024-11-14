@@ -2,7 +2,7 @@
 
 BOP = Business-Oriented Programming
 
-[简体中文](../zh-CN/README.md) | [繁體中文](../zh-TW/README_zh-TW.md) | [English](../en/README_en.md)
+[简体中文](../zh-CN/README.md) | [繁體中文](../zh-TW/README.md) | [English](../en/README.md)
 
 * Programming != Coding
 * Documentation first, not code
@@ -16,7 +16,7 @@ There are some long-standing issues in the software coding industry that no one 
 
 ## Showcase List
 
-- 2024-11 [BOP Overview](../en/202411/BOPOverview/BOPOverview.md)
+- 2024-11 [BOP Overview](../en/202411/BOPOverview/README.md)
 
 ## Roadmap
 
