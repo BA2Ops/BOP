@@ -18,6 +18,10 @@ There are some long-standing issues in the software coding industry that no one 
 
 - 2024-11 [BOP Overview](../en/202411/BOPOverview/README.md)
 
+## Demo
+
+- 2024-12 [Class Diagram Tools](https://www.ba2ops.com/tools/class-diagram)
+
 ## Roadmap
 
 * Requirement Analysis Assistant
