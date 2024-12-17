@@ -18,6 +18,10 @@ BOP = Business-Oriented Programming
 
 * 2024-11 [BOP概述](../zh-CN/202411/BOP概述/README.md)
 
+## 演示
+
+- 2024-12 [类图工具](https://www.ba2ops.com/tools/class-diagram)
+
 ## 路线图
 
 * 需求分析助手
