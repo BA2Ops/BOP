@@ -17,10 +17,12 @@ BOP = Business-Oriented Programming
 ## 展示列表
 
 * 2024-11 [BOP概述](../zh-CN/202411/BOP概述/README.md)
+* 2024-12 [差异编辑](../zh-CN/202412/差异编辑/README.md)
 
 ## 演示
 
 - 2024-12 [类图工具](https://www.ba2ops.com/tools/class-diagram)
+- 2024-12 [差异编辑](https://www.ba2ops.com/tools/code-diff)
 
 ## 路线图
 
