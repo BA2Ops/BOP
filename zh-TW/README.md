@@ -21,6 +21,7 @@ BOP = Business-Oriented Programming
 
 ## 演示
 
+- 2024-12 [BOP概述](https://www.ba2ops.com/tools/class-diagram)
 - 2024-12 [差異編輯](https://www.ba2ops.com/tools/code-diff)
 
 ## 路線圖
