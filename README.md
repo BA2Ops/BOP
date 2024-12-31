@@ -17,12 +17,12 @@ There are some long-standing issues in the software coding industry that no one 
 ## Showcase List
 
 - 2024-11 [BOP Overview](./en/202411/BOPOverview/README.md)
-- 2024-12 [Code Diff](./en/202412/CodeDiff/README.md)
+- 2024-12 [Diff Editing](./en/202412/DiffEditing/README.md)
 
 ## Demo
 
 - 2024-12 [Class Diagram Tools](https://www.ba2ops.com/tools/class-diagram)
-- 2024-12 [Code Diff](https://www.ba2ops.com/tools/code-diff)
+- 2024-12 [Diff Editing](https://www.ba2ops.com/tools/code-diff)
 
 ## Roadmap
 
